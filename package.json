@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/xIKRATOSx/Ikratos-MD-v1",
+    "homepage": "https://github.com/Itxxwasi/Ikratos-MD-v1",
     "author": {
-        "name": "xIKRATOSx"
+        "name": "wasi"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/xIKRATOSx/Ikratos-MD-v1.git"
+        "url": "git+https://github.com/Itxxwasi/Ikratos-MD-v1.git"
     },
     "bugs": {
-        "url": "https://github.com/xIKRATOSx/Ikratos-MD-v1/issues"
+        "url": "https://github.com/Itxxwasi/Ikratos-MD-v1/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
