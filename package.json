@@ -40,6 +40,8 @@
     "license": "GPL-3.0-or-later",
     "dependencies": {
         "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
+        "@whiskeysockets/baileys": "^6.6.0",
+        "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.4",
         "@distube/ytdl-core": "^4.13.3",
         "@vitalets/google-translate-api": "^9.2.0",
